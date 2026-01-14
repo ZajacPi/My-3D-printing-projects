@@ -1,1 +1,0 @@
-Micro Robot arm (9g Micro Servo) see video by bentommye on Thingiverse: https://www.thingiverse.com/thing:34829
